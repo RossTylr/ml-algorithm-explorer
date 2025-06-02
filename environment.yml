@@ -1,0 +1,23 @@
+name: ml_explorer
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - notebook
+  - plotly
+  - xgboost
+  - lightgbm
+  - catboost
+  - tensorflow
+  - keras
+  - scipy
+  # Optionally, for advanced users:
+  # - pip:
+  #     - any_pip_only_package
