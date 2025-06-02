@@ -11,31 +11,32 @@ The main goal of this project is to:
 
 ## Repository Structure
 ml-algorithm-explorer/
-├── .gitignore          # Specifies intentionally untracked files that Git should ignore
-├── LICENSE             # Project's open-source license
-├── README.md           # This file!
-├── requirements.txt    # Project dependencies
-├── data/               # Sample datasets used in notebooks
-│   └── iris.csv
-├── notebooks/          # Jupyter notebooks for each algorithm
-│   ├── 01_Linear_Regression.ipynb
-│   ├── 02_Polynomial_Regression.ipynb
-│   ├── 03_Logistic_Regression.ipynb
-│   ├── 04_K_Nearest_Neighbors.ipynb
-│   ├── 05_Naive_Bayes.ipynb
-│   ├── 06_Decision_Trees.ipynb
-│   ├── 07_Support_Vector_Machines.ipynb
-│   ├── 08_Random_Forests.ipynb
-│   ├── 09_Gradient_Boosting_Machines.ipynb
-│   ├── 10_XGBoost_LightGBM_CatBoost.ipynb
-│   ├── 11_K_Means_Clustering.ipynb
-│   ├── 12_Hierarchical_Clustering.ipynb
-│   ├── 13_Principal_Component_Analysis.ipynb
-│   ├── 14_Apriori.ipynb
-│   ├── 15_Q_Learning.ipynb
-│   └── 16_Deep_Q_Networks.ipynb
-└── utils/              # Utility scripts or helper functions
+├── .gitignore # Specifies intentionally untracked files that Git should ignore
+├── LICENSE # Project's open-source license
+├── README.md # Project overview and usage instructions
+├── requirements.txt # Project dependencies
+├── data/ # Sample datasets used in notebooks
+│ └── iris.csv
+├── notebooks/ # Jupyter notebooks for each algorithm
+│ ├── 01_Linear_Regression.ipynb
+│ ├── 02_Polynomial_Regression.ipynb
+│ ├── 03_Logistic_Regression.ipynb
+│ ├── 04_K_Nearest_Neighbors.ipynb
+│ ├── 05_Naive_Bayes.ipynb
+│ ├── 06_Decision_Trees.ipynb
+│ ├── 07_Support_Vector_Machines.ipynb
+│ ├── 08_Random_Forests.ipynb
+│ ├── 09_Gradient_Boosting_Machines.ipynb
+│ ├── 10_XGBoost_LightGBM_CatBoost.ipynb
+│ ├── 11_K_Means_Clustering.ipynb
+│ ├── 12_Hierarchical_Clustering.ipynb
+│ ├── 13_Principal_Component_Analysis.ipynb
+│ ├── 14_Apriori.ipynb
+│ ├── 15_Q_Learning.ipynb
+│ └── 16_Deep_Q_Networks.ipynb
+└── utils/ # Utility scripts or helper functions
 └── helpers.py
+
 
 ## Algorithms Covered
 
